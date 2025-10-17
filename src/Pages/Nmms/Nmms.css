@@ -1,0 +1,44 @@
+.nmms-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  padding: 40px;
+}
+
+.nmms-cards .Card {
+  width: 250px;       
+  height: auto;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  padding: 15px;
+  transition: transform 0.3s ease;
+}
+
+.nmms-cards .Card:hover {
+  transform: translateY(-5px);
+}
+
+@media (max-width: 768px) {
+  .nmms-cards {
+    gap: 15px;
+    padding: 15px;
+  }
+
+  .nmms-cards .Card {
+    width: 45%;
+  }
+}
+
+@media (max-width: 480px) {
+  .nmms-cards .Card {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .nmms-cards .Card h2 {
+    font-size: 1rem;
+  }
+}

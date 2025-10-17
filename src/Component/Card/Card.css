@@ -1,0 +1,9 @@
+.Card{
+    border: 2px solid blue;
+    text-align: center;
+    border-radius: 20px;
+    padding-bottom: 25px;
+}
+.Card h2{
+    padding: 20px;
+}

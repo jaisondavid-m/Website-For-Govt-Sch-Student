@@ -1,0 +1,21 @@
+.quote{
+    text-align: center;
+    background-color: grey;
+    padding: 10px;
+}
+.notice h2{
+    background-color: aqua;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+.lists{
+    margin-top: 20px;
+    font-weight: bold;
+}
+.contact h1{
+    background-color: aqua;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
