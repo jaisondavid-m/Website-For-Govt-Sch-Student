@@ -6,7 +6,7 @@ function Card({name,link}) {
   return (
     <div className='Card'>
        <h2>{name}</h2>
-       <Button link={link}/>
+       <Button link={link} name={name}/>
     </div>
     )
 }

@@ -1,34 +1,34 @@
 {
     "nmms":[
-        {"name": "NMMS 25-26 MAT REV 1 TM", "link":"../../../public/nmms-pdf/NMMS-25-26-MAT-REV-1-TM.pdf"},
-        {"name": "NMMS 25-26 REV TEST 1 KEY", "link":"../../../public/nmms-pdf/NMMS-25-26-REV-TEST-1-KEY.pdf"},
-        {"name": "NMMS 25-26 SAT REV 1 EM.pdf", "link":"../../../public/nmms-pdf/NMMS-25-26-SAT-REV-1-EM.pdf"},
-        {"name": "NMMS 25-26 SAT REV 1 TM", "link":"../../../public/nmms-pdf/NMMS-25-26-SAT-REV-1-TM.pdf"},
-        {"name": "NMMS 2025-26 UNIT TEST 13 KEY", "link":"../../../public/nmms-pdf/NMMS-2025-26-UNIT-TEST-13-KEY.pdf"},
-        {"name": "NMMS Maths Guide", "link":"../../../public/nmms-pdf/NMMS-Maths-Guide.pdf"},
-        {"name": "NMMS Science Guide", "link":"../../../public/nmms-pdf/NMMS-Science-Guide.pdf"},
-        {"name": "NMMS SOCIAL SCIENCE", "link":"../../../public/nmms-pdf/NMMS-SOCIAL-SCIENCE.pdf"},
-        {"name": "UNIT TEST 13 MAT 25-26 TM", "link":"../../../public/nmms-pdf/UNIT-TEST-13-MAT-25-26-TM.pdf"},
-        {"name": "UNIT TEST 13 SAT 25-26 EM", "link":"../../../public/nmms-pdf/UNIT-TEST-13-SAT-25-26-EM.pdf"},
-        {"name": "UNIT TEST 13 SAT 25-26 TM", "link":"../../../public/nmms-pdf/UNIT-TEST-13-SAT-25-26-TM.pdf"}
+        {"name": "NMMS 25-26 MAT REV 1 TM", "link":"/nmms-pdf/NMMS-25-26-MAT-REV-1-TM.pdf"},
+        {"name": "NMMS 25-26 REV TEST 1 KEY", "link":"/nmms-pdf/NMMS-25-26-REV-TEST-1-KEY.pdf"},
+        {"name": "NMMS 25-26 SAT REV 1 EM.pdf", "link":"/nmms-pdf/NMMS-25-26-SAT-REV-1-EM.pdf"},
+        {"name": "NMMS 25-26 SAT REV 1 TM", "link":"/nmms-pdf/NMMS-25-26-SAT-REV-1-TM.pdf"},
+        {"name": "NMMS 2025-26 UNIT TEST 13 KEY", "link":"/nmms-pdf/NMMS-2025-26-UNIT-TEST-13-KEY.pdf"},
+        {"name": "NMMS Maths Guide", "link":"/nmms-pdf/NMMS-Maths-Guide.pdf"},
+        {"name": "NMMS Science Guide", "link":"/nmms-pdf/NMMS-Science-Guide.pdf"},
+        {"name": "NMMS SOCIAL SCIENCE", "link":"/nmms-pdf/NMMS-SOCIAL-SCIENCE.pdf"},
+        {"name": "UNIT TEST 13 MAT 25-26 TM", "link":"/nmms-pdf/UNIT-TEST-13-MAT-25-26-TM.pdf"},
+        {"name": "UNIT TEST 13 SAT 25-26 EM", "link":"/nmms-pdf/UNIT-TEST-13-SAT-25-26-EM.pdf"},
+        {"name": "UNIT TEST 13 SAT 25-26 TM", "link":"/nmms-pdf/UNIT-TEST-13-SAT-25-26-TM.pdf"}
 
     ],
     "tenth":[
-        {"name": "10th SS MAP 25-26 TM", "link":"../../../public/10th-pdf/10-SS-MAP-25-26-TM.pdf"},
-        {"name":"10th MAP GEO TM.","link":"../../../public/10th-pdf/10th-map-geo-tm.pdf"},
-        {"name":"CIVICS 5 MARKS ALL QNS Slow Learners Material","link":"../../../public/10th-pdf/Civics-5-marks-all-questions-slow-learners-mtl.pdf"},
-        {"name":"Compulsory Questions 24-25 TM","link":"../../../public/10th-pdf/Compulsory-Questions-24-25-TM.pdf"},
-        {"name":"Economics 5marks slow learners Material","link":"../../../public/10th-pdf/Economics-5marks-all-questions-slow-learners-mtl.pdf"},
-        {"name":"GeoGraphic-Map","link":"../../../public/10th-pdf/GeoGraphic-Map.pdf"},
-        {"name":"Geography 5marks all questions book back slow learner Material","link":"../../../public/10th-pdf/Geography-5msrks-all-questions-book-back-slow-learner-mtl.pdf"},
-        {"name":"History 5marks slow learner Material Bookback","link":"../../../public/10th-pdf/History-5marks-slow-learner-mtl-Bookback-all-questions.pdf"},
-        {"name":"IMPORTANT 5 MARKS","link":"../../../public/10th-pdf/important-5marks.pdf"},
-        {"name":"வேறுபடுத்துக & காரணம் கூறுக","link":"../../../public/10th-pdf/வேறுபடுத்துக-&-காரணம்-கூறுக.pdf"}
+        {"name": "10th SS MAP 25-26 TM", "link":"/10th-pdf/10-SS-MAP-25-26-TM.pdf"},
+        {"name":"10th MAP GEO TM.","link":"/10th-pdf/10th-map-geo-tm.pdf"},
+        {"name":"CIVICS 5 MARKS ALL QNS Slow Learners Material","link":"/10th-pdf/Civics-5-marks-all-questions-slow-learners-mtl.pdf"},
+        {"name":"Compulsory Questions 24-25 TM","link":"/10th-pdf/Compulsory-Questions-24-25-TM.pdf"},
+        {"name":"Economics 5marks slow learners Material","link":"/10th-pdf/Economics-5marks-all-questions-slow-learners-mtl.pdf"},
+        {"name":"GeoGraphic-Map","link":"/10th-pdf/GeoGraphic-Map.pdf"},
+        {"name":"Geography 5marks all questions book back slow learner Material","link":"/10th-pdf/Geography-5msrks-all-questions-book-back-slow-learner-mtl.pdf"},
+        {"name":"History 5marks slow learner Material Bookback","link":"/10th-pdf/History-5marks-slow-learner-mtl-Bookback-all-questions.pdf"},
+        {"name":"IMPORTANT 5 MARKS","link":"/10th-pdf/important-5marks.pdf"},
+        {"name":"வேறுபடுத்துக & காரணம் கூறுக","link":"/10th-pdf/வேறுபடுத்துக-&-காரணம்-கூறுக.pdf"}
 
     ],
     "nineth":[
-        {"name": "TIME LINE FOR BOTH MEDIUM", "link":"../../../public/9th-pdf/9th-ss-time-line-both-medium.pdf"},
-        {"name": "MAP(English)", "link":"../../../public/9th-pdf/maps-in-english.pdf"},
-        {"name": "World Map", "link":"../../../public/9th-pdf/WorldMap.pdf"}
+        {"name": "TIME LINE FOR BOTH MEDIUM", "link":"/9th-pdf/9th-ss-time-line-both-medium.pdf"},
+        {"name": "MAP(English)", "link":"/9th-pdf/maps-in-english.pdf"},
+        {"name": "World Map", "link":"/9th-pdf/WorldMap.pdf"}
     ]
 }
