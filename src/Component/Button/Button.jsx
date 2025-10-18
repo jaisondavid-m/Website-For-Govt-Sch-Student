@@ -23,7 +23,6 @@ function Button({ link, name }) {
       a.remove()
       URL.revokeObjectURL(url)
     } catch (err) {
-      // fallback: open in new tab
       window.open(href, '_blank', 'noopener')
     }
   }
@@ -32,6 +31,9 @@ function Button({ link, name }) {
     <div>
       <a href={href} download={name || ''} onClick={handleDownload} rel="noopener noreferrer">
         <button className="card-btn">Download PDF</button>
+      </a><br/>
+      <a href={link} target="_blank" rel="noopener noreferrer">
+        <button className="card-btn">View PDF</button>
       </a>
     </div>
   )
