@@ -4,7 +4,7 @@ import React from 'react'
 function Button({link}) {
   return (
     <div>
-      <a href={link} target="_blank"><button className="card-btn">Download PDF</button></a>
+      <a href={link} download><button className="card-btn">Download PDF</button></a>
     </div>
   )
 }
